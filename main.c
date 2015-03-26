@@ -1,7 +1,7 @@
 /**
 Hokey Pokey
-Newcastle Junior Botball Team
-2nd - 4th Grade
+Newcastle Robotics Junior Botball Team
+2nd - 5th Grade
 
 This is a tutorial script to show various aspects of basic coding. We will command the 
 robot (powered by the KIPR Link -- http://www.kipr.org/hardware-software) to do the Hokey Pokey.
